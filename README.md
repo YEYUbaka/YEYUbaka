@@ -37,8 +37,8 @@
   <a href="https://github.com/YEYUbaka" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YEYUbaka" height="40" width="40" />
   </a>
-  <a href="mailto:2123912844@qq.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Email-2123912844@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:yeyubaka@foxmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Email-yeyubaka@foxmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
