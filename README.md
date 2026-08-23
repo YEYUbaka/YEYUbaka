@@ -25,7 +25,7 @@
 - 🌱 **Currently learning:** Python, C, JMeter, Postman, Apifox
 - 👯 **Looking to collaborate on:** 软件测试相关项目
 - 💬 **Ask me about:** HTML, 软件测试, Python
-- 📫 **How to reach me:** [2123912844@qq.com](mailto:2123912844@qq.com)
+- 📫 **How to reach me:** [yeyubaka@foxmail.com](mailto:yeyubaka@foxmail.com)
 - ⚡ **Fun fact:** 在线的学生蹲蹲互相进步搭子
 - 👨‍💻 **All of my projects:** [抖音视频链接](https://v.douyin.com/3dY52Po2l4s/)
 
